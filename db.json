@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "Aman Saurabh",
+      "phone": "9517539526",
+      "address": "123 Sun Street",
+      "membership": "Platinum",
+      "id": 1
+    },
+    {
+      "name": "Samir Thakur",
+      "phone": "9876543215",
+      "address": "987 Moon Street",
+      "membership": "Pro",
+      "id": 2
+    }
+  ]
+}
